@@ -1,0 +1,91 @@
+/*mystyle5.css/Contact.html*/
+
+* {
+    margin: 0;
+    padding: 0:
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-size: 175%;
+    background-repeat: no-repeat ;
+    margin: 0;
+    color: black;
+}
+
+#mobile_menu {
+    display: none;
+}
+
+.nav-bar, .nav-item {
+    background-color: #0f6674;
+    margin-left: 0;
+}
+
+
+.responsive {
+    width: 1em;
+    height: auto;
+}
+img {
+    mask-size: 10% 1em;
+    margin-left: .2em;
+    border-radius: 1.5em;
+}
+
+header h1 {
+    font-family: "DejaVu Serif Display";
+    margin: 0em 0em;
+    padding: .5em;
+    border: 3px groove #0f6674;
+    text-align: center;
+    color: moccasin;
+    background-image:
+            -webkit-linear-gradient(30deg, #FFFFFF 0%, #0f6674 30%, white 40%, #0f6674 80%, #0f6674 100%);
+    background-image: linear-gradient(30deg, #FFFFFF 0%, #0f6674 30%, white 40%, #0f6674 80%, #0f6674 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0f6674;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
