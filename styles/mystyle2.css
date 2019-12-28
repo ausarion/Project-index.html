@@ -41,6 +41,9 @@ body {
     background-color: #0f6674;
 }
 
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+}
 
 img {
     mask-size: 10% 1em;
@@ -52,7 +55,7 @@ h1 {
     font-family: Georgia;
     margin: .3em .9em;
     border-bottom: 2px solid black;
-    padding-right: 0;
+    padding: 0;
 }
 
 ul {
@@ -62,9 +65,10 @@ ul {
 
 h2 {
     padding-left: 0;
-    margin: 3em  1.3em .1em;
+    margin: 2em  1.3em .1em;
     color: seagreen ;
     font-size: 1.5rem;
+    width: 40%;
 
 }
 
@@ -78,6 +82,47 @@ iframe  {
     margin-left: 2em;
 }
 
+.iframe2 {
+    position: static;
+    padding-bottom: 1em;
+    margin-top: 1rem;
+    margin-bottom: .1em;
+    border-bottom: 3px solid darkgreen;
+    margin-left: 2em;
+
+}
+
+.iframe3 {
+    position: static;
+    padding-bottom: 1em;
+    margin-top: 1rem;
+    margin-bottom: .1em;
+    border-bottom: 3px solid darkgreen;
+    margin-left: 2em;
+}
+
+.iframe4 {
+    position: static;
+    padding-bottom: 1em;
+    margin-top: 1rem;
+    margin-bottom: .1em;
+    border-bottom: 3px solid darkgreen;
+    margin-left: 2em;
+
+}
+
+div .head {
+    font-family: "Georgia";
+    margin: 1.5em 0em 1.5em;
+    position: absolute;
+    float: top;
+    width: 40%;
+}
+div aside .main {
+    margin-top:7em;
+    position: relative;
+}
+
 h5 {
     margin-left: 1.5em;
     font-style: italic;
@@ -86,33 +131,14 @@ h5 {
 
 
 
-div .responsive {
-    display: block ;
+div .p2 {
+    margin: 3em 5em 1em 30em;
     font-family: Garamond;
     color: black;
-    position: absolute;
-    top: 175px;
-    left: 950px;
+    float: right;
     width: 20%;
-    padding-bottom: 1em;
-    border-bottom: 1px solid black;
 
 }
-
-div .img {
-    margin: .8em 3.5em;
-    border-bottom: 1px solid black;
-}
-
-.fab fa-facebook {
-    margin: 0 2em;
-}
-
-div .img2 {
-    margin: .8em 3.5em;
-    width: 40%;
-}
-
 
 .footer {
     float: bottom;

@@ -35,6 +35,9 @@ header  h1 {
     background-color: #0f6674;
 }
 
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+}
 
 
 img {
@@ -55,6 +58,7 @@ h1  {
 
 ul {
     list-style-type: square;
+    margin-left: 2em;
 }
 
 

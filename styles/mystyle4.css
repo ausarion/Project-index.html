@@ -39,6 +39,9 @@ header  h1 {
     background-color: #0f6674 ;
 }
 
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+}
 
 .responsive {
     width: 1em;
@@ -47,7 +50,6 @@ header  h1 {
 
 
 img {
-    z-index: 9;
     mask-size: 10% 1em;
     margin-left: .2em;
     border-radius: 1.5em;
@@ -96,7 +98,12 @@ h3 {
     margin: .5em 1.5em;
     width: 35%;
     height: 40%;
+}
 
+.image4 {
+    margin: .5em 1.5em;
+    width: 35%;
+    height: 40%;
 
 }
 h5, h6 {

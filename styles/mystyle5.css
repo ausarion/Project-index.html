@@ -23,6 +23,10 @@ body {
     margin-left: 0;
 }
 
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+}
+
 
 .responsive {
     width: 1em;

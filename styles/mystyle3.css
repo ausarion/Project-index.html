@@ -44,6 +44,9 @@ img {
     background-color: #0f6674;
 }
 
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+}
 
 h1 {
     font-family: Georgia;
@@ -58,19 +61,22 @@ p {
     padding: 0em 2em;
     font-family: Garamond
 
-
 }
 
-h5 {
-    margin: .5em 3em;
-    position: absolute;
+div aside  {
+    margin-left: 15em;
     float: right;
 }
-aside img {
+aside h5 {
+    margin: 0em 3em;
+    position: absolute;
+    float: top;
+}
+aside img  {
     margin: 3em 3em;
     position: relative;
     float: left;
-    width: 25%;
+    width: 35%;
     border: 3px solid #0f6674;
 }
 
